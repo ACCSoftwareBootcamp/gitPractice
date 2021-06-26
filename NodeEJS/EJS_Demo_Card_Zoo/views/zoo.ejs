@@ -1,0 +1,8 @@
+<h1>Zoo Page</h1>
+
+<% zooData.zoo.forEach(doggy => { %>
+    <h2>Name: <%= doggy.name %></h2>
+    <h3>Breed: <%= doggy.breed %></h3>
+    <h4>Is pet friendly? <%= doggy.isPet %></h4>
+    <p>Phone: <%= doggy.owner.phone %> </p>
+<% }) %>
