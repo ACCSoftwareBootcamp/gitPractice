@@ -1,1 +1,2 @@
-Hello there.  Adding text for commit by Piyush on 6/26.
+Hello there.  Adding text for commit by Student B on 6/26.
+Hi!
